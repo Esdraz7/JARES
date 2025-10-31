@@ -1,2 +1,2 @@
 # JARES
-JARES ia a Project Development Assistent.
+JARES is a Project Development Assistent.
