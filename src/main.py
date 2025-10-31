@@ -1,0 +1,1 @@
+print("Olá Esdras! JARES iniciado.")
